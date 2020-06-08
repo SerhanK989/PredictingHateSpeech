@@ -19,17 +19,7 @@ This repository consists of 4 directories:
 
 Data contains two files, which are both the same data except one is a csv and one is pickled. The data is a list of tweets each labelled with which of 3 classes it belongs too. The 0 class represents hate speech, the 1 class represents offensive text, and the 2 class represents non-offensive non hate speech tweets.
 
-The data was pulled from another paper by Davidson et al.
-
-@inproceedings{hateoffensive,
-  title = {Automated Hate Speech Detection and the Problem of Offensive Language},
-  author = {Davidson, Thomas and Warmsley, Dana and Macy, Michael and Weber, Ingmar}, 
-  booktitle = {Proceedings of the 11th International AAAI Conference on Web and Social Media},
-  series = {ICWSM '17},
-  year = {2017},
-  location = {Montreal, Canada},
-  pages = {512-515}
-  }
+The data was pulled from another paper by Davidson et al. Here is a link to that repo: https://github.com/t-davidson/hate-speech-and-offensive-language
 
 ### Images
 
