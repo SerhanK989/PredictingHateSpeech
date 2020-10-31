@@ -4,7 +4,7 @@ This is a research project to see how well you can predict hate speech using dif
 
 ## Installing 
 
-The requirements.txt file lists the software versions I used. Obviously it may work with different versions too.
+The requirements.txt file lists the software versions I used.
 
 ## Directories
 
